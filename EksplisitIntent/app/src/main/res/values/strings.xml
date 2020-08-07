@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Genta</string>
+    <string name="app_name">Eksplisit Intent</string>
     <string name="string_tim_a">Tim A</string>
     <string name="string_tim_b">Tim B</string>
     <string name="string_nomer_telphone">Masukkan Nomer Handphone</string>
